@@ -22,5 +22,3 @@ jumps two every time. If you decide to create a bomb and play it, it will not be
 create a bomb and save it, it will be added to that file for you to be able to play again whenever you'd like. 
 
 How to use back button: when you are in a module and want to escape back to the bomb, you may press the back button to exit.
-
-Warnings: keypad kinda sucks, sorry about that.
